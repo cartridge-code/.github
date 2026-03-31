@@ -7,6 +7,9 @@ A solo-dev home for retro-inspired games and prototypes, built in **Godot** and 
 ## Current Project
 
 ### Astro: Demake (PICO-8)
+
+<img src="https://github.com/user-attachments/assets/d4eef2fb-b357-474d-b9ee-107f06f755ac" width="300">
+
 A retro shoot’em up built in PICO-8.
 
 - **Play / Download:** [cartridgecode.itch.io/astro-demake](https://cartridgecode.itch.io/astro-demake)
